@@ -1,0 +1,17 @@
+body{
+    background-color:darkseagreen;
+    #container{
+        text-align:center;
+    }
+}
+.button{
+    border-radius: 15px;
+    background-color: white;
+    font-size: 12;
+}
+.button:hover{
+    background-color: blueviolet;
+}
+ul{
+    list-style-type: none;
+}
